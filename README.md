@@ -1,2 +1,4 @@
 # test_git
-train git 
+train git
+
+github to train git  
